@@ -7,4 +7,4 @@ As a marketing manager of a company, you would like to spend some advertising do
 **Deliverables**
 
 1. [Tableau Public](https://public.tableau.com/app/profile/pimkarn.mekpruksawong/viz/AdvertisingBudgetAllocation/Adbudgetallocation) (Interactive dashboard)
-2. Business Report
+2. [Business Report](https://github.com/pimkarnm/Tableau-Ads-Budget-Allocation/blob/145fdf50f8ab52f0f61dbd48eebc31190b29c9e1/Pimkarn%20-%20Tableau%20-%20Business%20Report.pdf)
